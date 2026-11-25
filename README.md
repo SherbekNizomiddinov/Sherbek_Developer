@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Laziz Shakarov - Frontend and Full-Stack Software Engineer" />
+<img width="100%" src="assets/header.svg" alt="Sherbek Nizomiddinov - Backend and Full-Stack Software Engineer" />
 
-<img width="100%" src="assets/hero.svg" alt="Laziz Shakarov - Engineering Overview" />
+<img width="100%" src="assets/hero.svg" alt="Sherbek Nizomiddinov - Engineering Overview" />
 
 <br/>
 
 <img src="assets/chip-location.svg" height="34" alt="Samarkand, Uzbekistan" />
 <img src="assets/chip-work.svg" height="34" alt="Frontend Dev at Aurent" />
 <img src="assets/chip-education.svg" height="34" alt="School 21 and Najot Ta'lim" />
-<img src="assets/chip-role.svg" height="34" alt="Frontend and Full-Stack" />
+<img src="assets/chip-role.svg" height="34" alt="Backend and Full-Stack" />
 
 <br/><br/>
 
